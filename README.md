@@ -5,9 +5,9 @@ How Muse invite codes work, how to redeem one, where to find your own code, and 
 **Short answer.** A Muse invite code is a 6-character code every Muse user can share. When a new user redeems a code inside the Muse app within 48 hours of signing up, **both sides receive 1 billion Muse tokens** — the person redeeming and the code's owner. Each account can redeem only one code, ever. Meta's own posts have put a code's capacity at both 20 and up to 30 redemptions depending on rollout, so treat any exact figure as current copy, not a promise — the app is the final word. *(Rules checked 2026-11-07.)*
 
 **Need a code right now?** Claim one free from the community pool:
-👉 https://muse-invite-pool.pages.dev/
+👉 https://muse300.com/
 
-**Pool status (2026-11-07):** 162 codes listed · 43 claimed so far · 8 reported filled. Live numbers: https://muse-invite-pool.pages.dev/api/stats
+**Pool status (2026-11-07):** 162 codes listed · 43 claimed so far · 8 reported filled. Live numbers: https://muse300.com/api/stats
 
 *Last updated: 2026-11-07. This is an independent community guide — not affiliated with or endorsed by Meta.*
 
@@ -40,19 +40,19 @@ So one invite bonus (1B, never expires) ≈ **10 weeks of the Free plan's quota,
 - **Mobile app:** Settings → Redeem invite code
 - **Web:** Settings → General → Usage → Redeem invite code
 
-Step-by-step: [How to redeem a Muse invite code](https://muse-invite-pool.pages.dev/redeem/)
+Step-by-step: [How to redeem a Muse invite code](https://muse300.com/redeem/)
 
 ## Where to find your own code
 
-Open Muse and check the Earn / Invite section — your code and how many uses you have left are shown there. Full walkthrough: [Find and share your Muse invite code](https://muse-invite-pool.pages.dev/find-your-code/)
+Open Muse and check the Earn / Invite section — your code and how many uses you have left are shown there. Full walkthrough: [Find and share your Muse invite code](https://muse300.com/find-your-code/)
 
-Got a code that isn't full yet? You can register it with the pool so other new users can fill it for you: [Fill up your code](https://muse-invite-pool.pages.dev/fill-up/)
+Got a code that isn't full yet? You can register it with the pool so other new users can fill it for you: [Fill up your code](https://muse300.com/fill-up/)
 
 ## Code not working?
 
 The usual causes: the code already hit its cap, your account is past the 48-hour window, or your account already redeemed a code once. There is no official way to check a code without trying it — the redeem result inside the app is the only verdict.
 
-Full troubleshooting list: [Muse invite code not working](https://muse-invite-pool.pages.dev/not-working/)
+Full troubleshooting list: [Muse invite code not working](https://muse300.com/not-working/)
 
 If a pooled code fails, just claim a different one — codes that keep failing get flagged and paused automatically.
 
@@ -62,7 +62,7 @@ If a pooled code fails, just claim a different one — codes that keep failing g
 Claim a free one from the community pool above, or ask any Muse user to share theirs. Once you are in Muse, you get a code of your own.
 
 **Where can I find a free Muse invite code?**
-The pool at muse-invite-pool.pages.dev lists live community codes (162 listed as of 2026-11-07). Codes are meant to be free — never pay for one.
+The pool at muse300.com lists live community codes (162 listed as of 2026-11-07). Codes are meant to be free — never pay for one.
 
 **How many tokens do you get from a Muse invite code?**
 1 billion tokens — for you and for the code's owner. The bonus never expires.
@@ -71,10 +71,10 @@ The pool at muse-invite-pool.pages.dev lists live community codes (162 listed as
 Meta's own posts have said both 20 and up to 30, depending on rollout. The app is the final word.
 
 **My Muse invite code is not working — what should I do?**
-Check the 48-hour window first, then whether your account already redeemed once, then try a different code. Full list: [not working](https://muse-invite-pool.pages.dev/not-working/).
+Check the 48-hour window first, then whether your account already redeemed once, then try a different code. Full list: [not working](https://muse300.com/not-working/).
 
 **Is there a Muse invite code pool?**
-Yes — community pools collect codes that owners share for strangers to redeem. This guide is maintained alongside one: https://muse-invite-pool.pages.dev/
+Yes — community pools collect codes that owners share for strangers to redeem. This guide is maintained alongside one: https://muse300.com/
 
 **What is Muse by Meta?**
 Muse is Meta's personal AI agent (launched September 2026): it runs tasks for you in a secure cloud computer, connects your apps, and remembers context across conversations. The invite codes above are for this Muse — not for any developer tool of a similar name.
@@ -96,7 +96,7 @@ Real posts by Muse users, as reported in the original posts (we link them so you
    He only asked Muse to log in and look at the bill; after he complained it was too expensive, it negotiated the price down.
    Original post: https://x.com/geronco/status/2099826624849961009 (William Geronco, 2026-09-15)
 
-More community guides and the pool itself: https://muse-invite-pool.pages.dev/
+More community guides and the pool itself: https://muse300.com/
 
 ## Honesty note
 
